@@ -4,5 +4,11 @@
   </div>
 </template>
 
-<style>
+<style scoped>
+.about {
+  margin-top: 50px;
+}
+div > h1 {
+  text-align: center;
+}
 </style>
